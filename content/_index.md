@@ -116,8 +116,5 @@ sections:
       email: tprochnow@tamu.edu
             # Choose a map provider in `params.yaml` to show a map from these coordinates
     
-      # Automatically link email and phone or display as text?
-      autolink: true
-  design:
-      columns: '2'
+
 ---
