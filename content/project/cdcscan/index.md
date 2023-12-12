@@ -40,7 +40,7 @@ math = false
 
 - [Click here for Report](/uploads/cdcreport.pdf)
 
-<embed src="/files/cdcreport.pdf" type="application/pdf" width="100%" height="800">
+<embed src="/uploads/cdcreport.pdf" type="application/pdf" width="100%" height="800">
 
 *Twitter Scan*
 
