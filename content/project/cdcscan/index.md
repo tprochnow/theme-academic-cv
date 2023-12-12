@@ -38,21 +38,18 @@ math = false
 
 *General*
 
-- [Click here for Report](/files/cdcreport.pdf)
+- [Click here for Report](/uploads/cdcreport.pdf)
 
 <embed src="/files/cdcreport.pdf" type="application/pdf" width="100%" height="800">
 
 *Twitter Scan*
 
 
-- [Sentiment Analysis](/files/sentiments.csv)
+- [Sentiment Analysis](/uploads/sentiments.csv)
 
-- [Word Frequency](/files/wordfreq.csv)
+- [Word Frequency](/uploads/wordfreq.csv)
 
 
-<br /><br />
-
-[Click here if you would like to suggest a resource or have any questions or comments on this project](https://forms.office.com/Pages/ResponsePage.aspx?id=NfvSImolm0W89Nwj1C3ApL6OUymJGCZGp-sfCjPfhClUQlA4MEZINkc4SUpTVjk4UENFNEtDSDEwSi4u)
 
 <br /><br />
 **Disclaimer** <br /><br />

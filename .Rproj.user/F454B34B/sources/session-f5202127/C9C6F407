@@ -1,26 +1,26 @@
 {
-    "id": "8A56B1F3",
+    "id": "C9C6F407",
     "path": "C:/Users/tprochnow/Documents/GitHub/theme-academic-cv/content/project/BGC2/index.md",
     "project_path": "content/project/BGC2/index.md",
     "type": "markdown",
-    "hash": "2632882079",
+    "hash": "2759695080",
     "contents": "",
     "dirty": false,
-    "created": 1702329819418.0,
+    "created": 1702348543917.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "30,0",
-        "scrollLine": "6"
+        "cursorPosition": "32,138",
+        "scrollLine": "27"
     },
     "folds": "",
-    "lastKnownWriteTime": 1702332057,
+    "lastKnownWriteTime": 1702349042,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1702332057596,
+    "last_content_update": 1702349042596,
     "read_only": false,
     "read_only_alternatives": []
 }

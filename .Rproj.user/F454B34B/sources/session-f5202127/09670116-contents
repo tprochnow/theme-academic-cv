@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = 2023-12-21
+date = 2021-06-21
 
 # Project title.
-title = "Making the Connection"
+title = "Environmental Scan of Black/African American Expert Discussion on Activity-Friendly Routes to Everyday Destinations"
 
 # Project summary to display on homepage.
-summary = "Understanding the social networks of Black/African American men with Type 2 diabetes"
+summary = "Project contracted by CDC and SOPHE"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
  image_preview = "cdcscan.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
- tags = ["Youth PA", "SNA"]
+ tags = ["Youth PA"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = ""
@@ -31,6 +31,24 @@ math = false
 	The goal of this project is to understand Black/African American expert discussion around historical context and consequences of inequities that have discouraged physical activity among Black/African American individuals/communities (e.g., limited access to routes and/or destinations, feeling unsafe in their neighborhoods, etc.). <br /><br />
 	The contractor will conduct an environmental scan of what Black/African American experts are saying related to activity friendly routes to everyday destinations strategies (routes to destinations), including policy, system, and environmental changes that can promote or discourage equitable and inclusive access to physical activity for Black/African American communities.
 <br /><br />
+**Tasks** <br /><br />
+	Conduct an environmental scan of content produced by Black/African American experts from the United States related to the routes to destinations strategy. Include material from 2010 to present (depending on type of material) in the United States to obtain current information about the types of conversations happening. 
+<br /><br />
+**Online Resources for this Project:**
+
+*General*
+
+- [Click here for Report](/uploads/cdcreport.pdf)
+
+<embed src="/files/cdcreport.pdf" type="application/pdf" width="100%" height="800">
+
+*Twitter Scan*
+
+
+- [Sentiment Analysis](/uploads/sentiments.csv)
+
+- [Word Frequency](/uploads/wordfreq.csv)
+
 
 
 <br /><br />
