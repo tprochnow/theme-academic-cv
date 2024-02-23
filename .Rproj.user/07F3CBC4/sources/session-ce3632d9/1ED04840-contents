@@ -1,5 +1,5 @@
 +++
-title = "Network clustering based on team sport participation for adolescents attending summer care programs"
+title = "Peer Protection: Social Connections and Adolescent Mental Health in Summer Youth Development Programs"
 date = 2024-04-15
 draft = false
 all_day = true
