@@ -3,7 +3,7 @@
     "path": "~/GitHub/theme-academic-cv/content/event/AAHBBGCMH.md",
     "project_path": "content/event/AAHBBGCMH.md",
     "type": "markdown",
-    "hash": "795000335",
+    "hash": "1760079045",
     "contents": "",
     "dirty": false,
     "created": 1708711819564.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,0",
-        "scrollLine": "16"
+        "cursorPosition": "55,73",
+        "scrollLine": "48"
     },
     "folds": "",
-    "lastKnownWriteTime": 1708910769,
+    "lastKnownWriteTime": 1708910977,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708910769704,
+    "last_content_update": 1708910977941,
     "read_only": false,
     "read_only_alternatives": []
 }
