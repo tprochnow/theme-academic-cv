@@ -45,9 +45,9 @@ math = false
 *Twitter Scan*
 
 
-- [Sentiment Analysis](/uploads/sentiments.csv)
+- [Sentiment Analysis](/files/sentiments.csv)
 
-- [Word Frequency](/uploads/wordfreq.csv)
+- [Word Frequency](/files/wordfreq.csv)
 
 
 
