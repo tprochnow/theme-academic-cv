@@ -45,5 +45,5 @@ The EmpowerHER program was created by Deja Jackson to be an 8-week program consi
 <br /><br />
 
 
-**Funding** <br /><br />This project is funded by the Texas A&M University Health Science Center Seedling Grant Program. Research Committee in collaboration with two Boys & Girls Clubs to examine the role of summer care on friendship and physical activity over a summer. 
+**Funding** <br /><br />This project is funded by the Texas A&M University Health Science Center Seedling Grant Program.  
 
