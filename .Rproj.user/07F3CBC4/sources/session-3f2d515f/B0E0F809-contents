@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2024-03-11
+date = 2024-01-01
 
 # Project title.
 title = "SNAP-Social Networks and Activity Patterns"
