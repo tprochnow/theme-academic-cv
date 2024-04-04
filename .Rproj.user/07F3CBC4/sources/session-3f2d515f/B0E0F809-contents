@@ -3,7 +3,7 @@
 date = 2024-01-01
 
 # Project title.
-title = "SPACES Study: Social and Physical Activity Contexts in the Environment Study"
+title = "SPACES Study: Social and Physical Activity Contexts in the Environment in Summer"
 
 # Project summary to display on homepage.
 summary = "Identifying the reciprocal associations between the built environment, social networks, and physical activity among youth in the summer"
@@ -28,7 +28,7 @@ math = false
 
 +++
 **Project Goals** <br /><br />
-	The SPACES Study: Social and Physical Activity Contexts in the Environment Study is a groundbreaking research project led by Dr. Tyler Prochnow at Texas A&M University, in partnership with the Bryan Independent School District (BISD). This study aims to uncover the complex interplay between social networks, built environments, and physical activity among youth during the summer months. 
+	The SPACES Study: Social and Physical Activity Contexts in the Environment in Summer is a groundbreaking research project led by Dr. Tyler Prochnow at Texas A&M University, in partnership with the Bryan Independent School District (BISD). This study aims to uncover the complex interplay between social networks, built environments, and physical activity among youth during the summer months. 
 <br /><br />
 
 <br /><br />
