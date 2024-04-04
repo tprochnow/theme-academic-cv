@@ -39,10 +39,11 @@ Physical activity is crucial for the healthy development and well-being of child
 **What does the study involve?** <br /><br />
 The SPACES Study will follow a group of 7th, 8th, and 9th-grade students from BISD over a two-week period during the summer. Participants will be asked to:
 
-Complete an initial survey about their social networks and perceptions of their neighborhood environment
-Wear an accelerometer (a small device that measures physical activity) for 7 days
-Respond to brief survey prompts on their mobile phone or a study-provided phone several times per day during the 7-day period
-Participate in a follow-up interview to discuss their experience with the study
+- Complete an initial survey about their social networks and perceptions of their neighborhood environment
+- Wear an accelerometer (a small device that measures physical activity) for 7 days
+- Respond to brief survey prompts on their mobile phone or a study-provided phone several times per day during the 7-day period
+- Participate in a follow-up interview to discuss their experience with the study
+
 By collecting data on participants' social interactions, environmental perceptions, and physical activity levels in real-time, the SPACES Study will provide unprecedented insights into the factors that shape youth activity patterns during the summer.
 
 <br /><br />
