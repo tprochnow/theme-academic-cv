@@ -23,5 +23,5 @@ menu:
 
 ## Welcome to Advanced Social Network Analysis
 
-#Check back later for more details
+# Check back later for more details
 

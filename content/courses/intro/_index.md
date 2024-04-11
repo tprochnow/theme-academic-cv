@@ -32,6 +32,12 @@ Social network analysis (SNA) is a theoretical framework and set of methodologie
 
 This workshop serves as an introduction to the theory and methods used in SNA. We will cover theoretical premise, survey methods, and interpretation of network data to provide a broad overview of what is possible when applying SNA in health research. Successful participants will be able to develop an understanding of SNA in order to answer new research questions and apply it to their own research or practice. No prior knowledge of SNA or data analysis is required. Case studies and discussion will be used to further enhance application of these methods in real-life settings. 
 
+## Downloading Slides
+
+We will try to place slides in their respective webpages. Here is a working versions of the slides used in the workshop
+
+[Click here for slides](/courses/intro/Workshop.pdf)
+
 ## Learning Objectives
 
 After this workshop, participants will be able to…

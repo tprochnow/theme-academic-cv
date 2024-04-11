@@ -1,26 +1,26 @@
 {
-    "id": "58EFD89D",
-    "path": "~/GitHub/theme-academic-cv/content/courses/advanced/_index.md",
-    "project_path": "content/courses/advanced/_index.md",
+    "id": "26C3950E",
+    "path": "~/GitHub/theme-academic-cv/content/courses/intro/example1.md",
+    "project_path": "content/courses/intro/example1.md",
     "type": "markdown",
-    "hash": "3201663885",
+    "hash": "1241766011",
     "contents": "",
     "dirty": false,
-    "created": 1712798396699.0,
+    "created": 1712799295258.0,
     "source_on_save": false,
     "relative_order": 5,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,37",
-        "scrollLine": "0"
+        "cursorPosition": "25,21",
+        "scrollLine": "24"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712798450,
+    "lastKnownWriteTime": 1712799370,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712798450390,
+    "last_content_update": 1712799370508,
     "read_only": false,
     "read_only_alternatives": []
 }
