@@ -46,8 +46,8 @@ projects = ["onlinegaming"]
 # url_code = "#"
 # url_dataset = "#"
 # url_project = "#"
- url_slides = "files/sunbelt2020.pdf"
- url_video = "files/sunbelt2020vid.mp4"
+# url_slides = "files/sunbelt2020.pdf"
+# url_video = "files/sunbelt2020vid.mp4"
 # url_poster = "files/OnlineAAHB.pdf"
 # url_source = "#"
 
