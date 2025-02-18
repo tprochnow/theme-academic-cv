@@ -29,13 +29,11 @@ math = false
 +++
 **Project Goals** <br /><br />
 	The SPACES Study: Social and Physical Activity Contexts in the Environment in Summer is a groundbreaking research project led by Dr. Tyler Prochnow at Texas A&M University, in partnership with the Bryan Independent School District (BISD) and College Station Independent School District (CSISD). This study aims to uncover the complex interplay between social networks, built environments, and physical activity/mental health among youth during the summer months. 
-<br /><br />
 
-<br /><br />
+
 **Why is this study important?** <br /><br />
 Physical activity is crucial for the healthy development and well-being of children and adolescents. However, many youth experience a decline in physical activity during the summer when they are not in school. By understanding how social networks and built environments influence youth activity patterns during this time, we can develop more effective interventions and policies to promote healthy, active lifestyles year-round.
 
-<br /><br />
 **What does the study involve?** <br /><br />
 The SPACES Study will follow a group of 7th, 8th, and 9th-grade students from BISD and CSISD over a one-week period during the summer. Participants will be asked to:
 
@@ -46,11 +44,10 @@ The SPACES Study will follow a group of 7th, 8th, and 9th-grade students from BI
 
 By collecting data on participants' social interactions, environmental perceptions, and physical activity levels in real-time, the SPACES Study will provide unprecedented insights into the factors that shape youth activity patterns during the summer.
 
-<br /><br />
+
 **Who is eligible to participate?** <br /><br />
 The SPACES Study is open to students who will be entering 7th, 8th, or 9th grade in the upcoming school year and are currently enrolled in BISD or CSISD. Participants must have their own mobile device, be able to read and understand English, and have parental consent to participate.
 
-<br /><br />
 **What are the benefits of participating** <br /><br />
 By participating in the SPACES Study, your child will have the opportunity to:
 
@@ -58,8 +55,6 @@ By participating in the SPACES Study, your child will have the opportunity to:
 - Learn more about their own physical activity patterns and the factors that influence them
 - Receive gift cards totaling up to $100 as a token of appreciation for their time and effort
 
-
-<br /><br />
 **How can I sign up my child to participate?** <br /><br />
 If you are interested in having your child participate in the SPACES Study, please click on the "Sign Up Now" button below. You will be directed to a brief contact information survey where you can provide your child's details and your preferred method of contact. A member of our research team will then be in touch with you to provide more information about the study and to guide you through the enrollment process.
 
