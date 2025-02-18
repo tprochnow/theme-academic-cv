@@ -28,7 +28,7 @@ math = false
 
 +++
 **Project Goals** <br /><br />
-	The SPACES Study: Social and Physical Activity Contexts in the Environment in Summer is a groundbreaking research project led by Dr. Tyler Prochnow at Texas A&M University, in partnership with the Bryan Independent School District (BISD). This study aims to uncover the complex interplay between social networks, built environments, and physical activity among youth during the summer months. 
+	The SPACES Study: Social and Physical Activity Contexts in the Environment in Summer is a groundbreaking research project led by Dr. Tyler Prochnow at Texas A&M University, in partnership with the Bryan Independent School District (BISD) and College Station Independent School District (CSISD). This study aims to uncover the complex interplay between social networks, built environments, and physical activity/mental health among youth during the summer months. 
 <br /><br />
 
 <br /><br />
@@ -37,7 +37,7 @@ Physical activity is crucial for the healthy development and well-being of child
 
 <br /><br />
 **What does the study involve?** <br /><br />
-The SPACES Study will follow a group of 7th, 8th, and 9th-grade students from BISD over a two-week period during the summer. Participants will be asked to:
+The SPACES Study will follow a group of 7th, 8th, and 9th-grade students from BISD and CSISD over a one-week period during the summer. Participants will be asked to:
 
 - Complete an initial survey about their social networks and perceptions of their neighborhood environment
 - Wear an accelerometer (a small device that measures physical activity) for 7 days
@@ -48,7 +48,7 @@ By collecting data on participants' social interactions, environmental perceptio
 
 <br /><br />
 **Who is eligible to participate?** <br /><br />
-The SPACES Study is open to students who will be entering 7th, 8th, or 9th grade in the upcoming school year and are currently enrolled in BISD. Participants must be able to read and understand English and have parental consent to participate.
+The SPACES Study is open to students who will be entering 7th, 8th, or 9th grade in the upcoming school year and are currently enrolled in BISD or CSISD. Participants must have their own mobile device, be able to read and understand English, and have parental consent to participate.
 
 <br /><br />
 **What are the benefits of participating** <br /><br />
@@ -63,12 +63,12 @@ By participating in the SPACES Study, your child will have the opportunity to:
 **How can I sign up my child to participate?** <br /><br />
 If you are interested in having your child participate in the SPACES Study, please click on the "Sign Up Now" button below. You will be directed to a brief contact information survey where you can provide your child's details and your preferred method of contact. A member of our research team will then be in touch with you to provide more information about the study and to guide you through the enrollment process.
 
-Sign Up Now
+[Sign Up Now](https://tamu.qualtrics.com/jfe/form/SV_57ty7pEpSvyKVUO)
 
 If you have any questions or would like more information about the SPACES Study, please contact the Principal Investigator, Dr. Tyler Prochnow, at tprochnow@tamu.edu
 
 <br /><br />
 **Funding** <br /><br />
-This project was supported by National Heart LUng and Blood Institute (K01).
+This project was supported by National Heart Lung and Blood Institute (K01).
 <br /><br />
   
