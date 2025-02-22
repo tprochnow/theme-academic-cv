@@ -9,7 +9,7 @@ title = "Online Gaming and Mental Health"
 summary = "A case study on online gaming network associations with mental health"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
- image_preview = ""
+ image_preview = "featured.jpeg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
