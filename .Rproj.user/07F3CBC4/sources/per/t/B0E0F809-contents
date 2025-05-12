@@ -37,7 +37,7 @@ math = false
 Physical activity is crucial for the healthy development and well-being of children and adolescents. However, many youth experience a decline in physical activity during the summer when they are not in school. By understanding how social networks and built environments influence youth activity patterns during this time, we can develop more effective interventions and policies to promote healthy, active lifestyles year-round.
 
 **What does the study involve?** <br /><br />
-The SPACES Study will follow a group of 7th, 8th, and 9th-grade students from BISD and CSISD over a one-week period during the summer. Participants will be asked to:
+The SPACES Study will follow a group of 6th, 7th, and 8th-grade students from BISD and CSISD over a one-week period during the summer. Participants will be asked to:
 
 - Complete an initial survey about their social networks and perceptions of their neighborhood environment
 - Wear an accelerometer (a small device that measures physical activity) for 7 days
