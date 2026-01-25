@@ -8,7 +8,7 @@ publication = "*Frontiers in Public Health*"
 publication_short = "*Front Public Health*"
 abstract = "Protocol for a convergent mixed-methods study (n=1,200 survey + 65 longitudinal interviews) to examine how social networks shape T2D self-management among Black/African American men; integrates Network Episode Model, Social Support, Social Capital, and discrimination frameworks; measures include egocentric network composition, interaction, SDSCA, DCP, SED, DASS-21, AUDIT-C, eHEALS, and EDS."
 featured = false
-projects = []
+projects = ["MTC"]
 tags = ["study protocol", "social networks", "mixed-methods", "type 2 diabetes", "Black/African American men"]
 url_pdf = "/files/MTCprotocol.pdf"
 math = true

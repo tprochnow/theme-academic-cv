@@ -7,8 +7,8 @@ publication_types = ["2"]
 publication = "*American Journal of Health Promotion*"
 publication_short = "*Am. J. Health Promot.*"
 abstract = "This longitudinal applied research brief examined adolescent social connectedness profiles (peer and adult) in a 10-week summer care program (n=47) and their association with psychological distress (K10). Two profiles emerged—“baseline bonders” and “strong socializers”—and a significant time-by-profile interaction indicated differential changes in distress across summer."
-featured = false
-projects = []
+featured = true
+projects = ["bgc2"]
 tags = ["adolescents", "social connectedness", "psychological distress", "summer programs"]
 url_pdf = "/files/bgcconnectednessprofiles.pdf"
 math = true
