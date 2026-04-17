@@ -34,17 +34,17 @@ math = false
 
 
 **Why is this study important?** <br /><br />
-Physical activity is crucial for the healthy development and well-being of children and adolescents. However, many youth experience a decline in physical activity during the summer when they are not in school. By understanding how social networks and built environments influence youth activity patterns during this time, we can develop more effective interventions and policies to promote healthy, active lifestyles year-round.
+Physical activity is crucial for the healthy development and well-being of youth. However, many youth experience a decline in physical activity during the summer when they are not in school. By understanding how social networks and built environments influence youth activity patterns during this time, we can develop more effective interventions and policies to promote healthy, active lifestyles year-round.
 
 **What does the study involve?** <br /><br />
-The SPACES Study will follow a group of 6th, 7th, and 8th-grade students from BISD and CSISD over a one-week period during the summer. Participants will be asked to:
+The SPACES Study aims to follow students going into grades 7-9 from BISD and CSISD over a one-week period during the summer. Participants will be asked to:
 
-- Complete an initial survey about their social networks and perceptions of their neighborhood environment
-- Wear an accelerometer (a small device that measures physical activity) for 7 days
-- Respond to brief survey prompts on their mobile phone or a study-provided phone several times per day during the 7-day period
+- Complete an initial survey about their social networks, mental health, and perceptions of their neighborhood environment
+- Wear an accelerometer (a small watch that measures physical activity and sleep) for 7 days
+- Respond to brief survey prompts on their mobile phone six times per day during the 7-day period
 - Participate in a follow-up interview to discuss their experience with the study
 
-By collecting data on participants' social interactions, environmental perceptions, and physical activity levels in real-time, the SPACES Study will provide unprecedented insights into the factors that shape youth activity patterns during the summer.
+This will be done in two visits to your residence (first visit - roughly 45 minutes on a Saturday, second visit - roughly 15 minutes one week later on Sunday). By collecting data on participants' social interactions, environmental perceptions, and physical activity levels in real-time, the SPACES Study will provide unprecedented insights into the factors that shape youth health patterns during the summer.
 
 
 **Who is eligible to participate?** <br /><br />
