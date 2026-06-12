@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Health Behavior
+role: Associate Professor of Health Behavior
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Texas A&M University
-    url: https://public-health.tamu.edu/directory/prochnow.html
+    url: https://public-health.tamu.edu/directory/tyler-prochnow.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include social network analysis and health behavior.
@@ -32,7 +32,7 @@ interests:
 - Social Network Analysis
 - Physical Activity
 - Mental Health
-- Health Equity
+
 
 # Education to show in About widget
 education:
@@ -66,7 +66,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=TOKNbGcAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=oirDf8AAAAAJ&hl
   - icon: github
     icon_pack: fab
     link: https://github.com/tprochnow
@@ -84,6 +84,6 @@ social:
 highlight_name: true
 ---
 
-Tyler Prochnow, PhD is an Assistant Professor at Texas A&M University. His research interests include the social dynamics which drive health behavior. Tyler has done work with local Boys & Girls Clubs, health districts, gaming communities, and other research projects to better understand how social connections impact physical activity and mental health.
+Tyler Prochnow, PhD is an Associate Professor at Texas A&M University. His research interests include the social dynamics which drive health behavior. Tyler has done work with local Boys & Girls Clubs, health districts, gaming communities, and other research projects to better understand how social connections impact physical activity and mental health.
 
 {{< youtube 4p_yc-66b-M >}}
