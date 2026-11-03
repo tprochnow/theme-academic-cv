@@ -4,7 +4,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: Our Lab
+      title: The COHESION Lab
       # Each group becomes its own section, in this order
       user_groups:
         - Graduate Students
