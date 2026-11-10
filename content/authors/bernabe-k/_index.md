@@ -8,10 +8,10 @@ last_name: Bernabe
 role: Graduate Student
 
 # Short bio shown on the Lab page card (one or two sentences)
-bio: ""
+bio: "Kaitlin Bernabe, MPH is a current first-year PhD student and research assistant in the Texas A&M University School of Public Health"
 
 # Research interests shown on the Lab page card (optional)
-interests: []
+interests: [Physical activity, youth sports, social connectedness]
 
 # Which section of the Lab page this person appears in
 user_groups:

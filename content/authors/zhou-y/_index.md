@@ -5,13 +5,13 @@ first_name: Yunlin
 last_name: Zhou
 
 # Shown under the name on the Lab page (e.g., "PhD Student, Health Behavior")
-role: Graduate Student
+role: PhD Candidate
 
 # Short bio shown on the Lab page card (one or two sentences)
-bio: ""
+bio: "Yunlin Zhou, MPH, is a third-year PhD student and graduate assistant at the Texas A&M University School of Public Health, following the completion of master’s degree in Health Behavior at Texas A&M."
 
 # Research interests shown on the Lab page card (optional)
-interests: []
+interests: [Physical Activity, Mental Health, and Health Disparities]
 
 # Which section of the Lab page this person appears in
 user_groups:
@@ -31,4 +31,4 @@ email: ""
 social: []
 ---
 
-<!-- Longer bio goes here. It appears on Yunlin's profile page, along with every publication that lists them as an author. -->
+Yunlin Zhou, MPH, is a third-year PhD student and graduate assistant at the Texas A&M University School of Public Health, following the completion of master’s degree in Health Behavior at Texas A&M.

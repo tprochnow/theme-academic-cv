@@ -8,10 +8,10 @@ last_name: Liesberger
 role: Undergraduate Researcher
 
 # Short bio shown on the Lab page card (one or two sentences)
-bio: ""
+bio: "Junior in Psychology interested in pursuing School Psychology"
 
 # Research interests shown on the Lab page card (optional)
-interests: []
+interests: [Adolescents, mental health, behavioral outcomes]
 
 # Which section of the Lab page this person appears in
 user_groups:
@@ -31,4 +31,4 @@ email: ""
 social: []
 ---
 
-<!-- Longer bio goes here. It appears on Grace's profile page, along with every publication that lists them as an author. -->
+Junior in Psychology interested in pursuing School Psychology
