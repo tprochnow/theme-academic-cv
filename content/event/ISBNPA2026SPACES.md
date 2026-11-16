@@ -45,7 +45,7 @@ projects = ["summerpa"]
 # url_project = "#"
 # url_slides = "#"
 # url_video = "#"
-# url_slides = "files/SPACESISBNPA2026.pdf"
+ url_slides = "files/SPACESISBNPA2026.pdf"
 # url_source = "#"
 
 # Custom links (optional).

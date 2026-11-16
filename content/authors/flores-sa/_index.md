@@ -5,13 +5,13 @@ first_name: Sara
 last_name: Flores
 
 # Shown under the name on the Lab page (e.g., "PhD Student, Health Behavior")
-role: Lab Alum
+role: NCI - Cancer Prevention Fellow
 
 # Short bio shown on the Lab page card (one or two sentences)
-bio: ""
+bio: "Sara earned her PhD in Health Education from the Texas A&M School of Public Health and is now a Cancer Prevention Fellow."
 
 # Research interests shown on the Lab page card (optional)
-interests: []
+interests: [Healthcare access, care continuity, adolescents and young adults]
 
 # Which section of the Lab page this person appears in
 user_groups:
@@ -31,4 +31,4 @@ email: ""
 social: []
 ---
 
-<!-- Longer bio goes here. It appears on Sara's profile page, along with every publication that lists them as an author. -->
+Sara earned her PhD in Health Education from the Texas A&M School of Public Health and is now a Cancer Prevention Fellow in the Healthcare Delivery Research Program at the National Cancer Institute, where she utilizes social network analysis and other systems science approaches to study cancer survivorship care.

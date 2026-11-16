@@ -8,10 +8,10 @@ last_name: Senthil
 role: Undergraduate Researcher
 
 # Short bio shown on the Lab page card (one or two sentences)
-bio: ""
+bio: "Rithanya is a sophomore at Texas A&M University majoring in Behavioral and Cognitive Neuroscience"
 
 # Research interests shown on the Lab page card (optional)
-interests: []
+interests: [Social Connection, Immune Health, Stress]
 
 # Which section of the Lab page this person appears in
 user_groups:
@@ -31,4 +31,4 @@ email: ""
 social: []
 ---
 
-<!-- Longer bio goes here. It appears on Rithanya's profile page, along with every publication that lists them as an author. -->
+Rithanya is a sophomore at Texas A&M University majoring in Behavioral and Cognitive Neuroscience, with an interest in understanding how social environments influence mental and physical health outcomes, and plans to pursue a career in medicine.

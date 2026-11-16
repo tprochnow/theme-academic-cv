@@ -8,10 +8,10 @@ last_name: Sreemushta
 role: Undergraduate Researcher
 
 # Short bio shown on the Lab page card (one or two sentences)
-bio: ""
+bio: "3+2 student in Health Policy & Management pursuing medicine"
 
 # Research interests shown on the Lab page card (optional)
-interests: []
+interests: [Mental Health, Substance Misuse, Adolescent/Young Adult Health]
 
 # Which section of the Lab page this person appears in
 user_groups:
@@ -31,4 +31,4 @@ email: ""
 social: []
 ---
 
-<!-- Longer bio goes here. It appears on Sanjitha's profile page, along with every publication that lists them as an author. -->
+Howdy! I am currently pursuing a dual MPH and BSPH degree, with an interest in health systems and health policy. In the long term, I hope to pursue a career in medicine after a few years working in the policy or administrative space. I have an interest in youth/young adult health behaviors, especially within the realm of Substance Abuse. 

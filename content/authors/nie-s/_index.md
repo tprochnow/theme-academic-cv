@@ -8,10 +8,10 @@ last_name: Nie
 role: Graduate Student
 
 # Short bio shown on the Lab page card (one or two sentences)
-bio: ""
+bio: "Shuqi Nie, M.Arch, is a first-year PhD student and research assistant in the School of Public Health at Texas A&M University."
 
 # Research interests shown on the Lab page card (optional)
-interests: []
+interests: [Physical Activity, Aging and Dementia Care, and Social Connectedness]
 
 # Which section of the Lab page this person appears in
 user_groups:
@@ -31,4 +31,4 @@ email: ""
 social: []
 ---
 
-<!-- Longer bio goes here. It appears on Shuqi's profile page, along with every publication that lists them as an author. -->
+Shuqi is a PhD student in the Department of Health Behavior. She works in environmental gerontology and studies how physical activity and social connectedness are related among older adults. Her research uses social network analysis (SNA) and mixed methods. She hopes to turn research findings into evidence-based programs that support healthy aging for individuals and communities.
